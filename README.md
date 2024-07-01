@@ -1,5 +1,5 @@
 # Algorithm Testing Repository
-This Repository is accompanying the paper "On Inverse Kinematics Solving: Space-Time Decoupling". It contains various algorithms and a script to test them.
+This repository is accompanying the paper "On Inverse Kinematics Solving: Space-Time Decoupling". It contains various algorithms and a script to test them.
 
 The code can be used for benchmarking or educational purposes. More case studies to be added later on. 
 
