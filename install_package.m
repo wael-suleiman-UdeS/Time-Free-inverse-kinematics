@@ -1,6 +1,9 @@
-% Define the package name
-pkg_name = "optim";
+% Define the package names
 
+pkg_names = {"struct","statistics","optim"};
+
+for i=1:length(pkg_names)
+  pkg_name=pkg_names{i};
 % Check if the package is already installed
 installed_packages = pkg("list");
 
@@ -26,4 +29,6 @@ else
     fprintf('Package "%s" is already installed.\n', pkg_name);
     pkg("load", pkg_name); % Ensure the package is loaded
     fprintf('Package "%s" is loaded.\n', pkg_name);
+end
+
 end
