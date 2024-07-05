@@ -21,5 +21,5 @@ Alternatively, if you have MATLAB, you can use it to run the code in the folder 
 
 ## Running the Test Script
 
-To test the algorithms, type in the command line in Octave:
+To test the algorithms, type in the command line in Octave or MATLAB:
 run("run_test_script.m")
