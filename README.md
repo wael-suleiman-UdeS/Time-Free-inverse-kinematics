@@ -11,7 +11,13 @@ The code can be used for benchmarking or educational purposes. More case studies
 
 ## Prerequisites
 
-Ensure you have Octave installed on your system. You can download it from [GNU Octave](https://www.gnu.org/software/octave/download.html). It has been tested with Octave Version 9.2.
+### Octave
+Ensure you have GNU Octave installed on your system. You can download it from the official [GNU Octave website](https://www.gnu.org/software/octave/download.html). This project has been tested with Octave version 9.2.
+
+### MATLAB
+Alternatively, if you have MATLAB, you can use it to run the code in the folder "MATLAB_Version". Please note the following:
+- The "Optimization Toolbox" is required.
+- The code has been tested with MATLAB versions 2023b and 2024a.
 
 ## Running the Test Script
 
