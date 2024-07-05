@@ -1,3 +1,5 @@
+%Forward kinematics 
+%Copyright, Wael Suleiman, 2016
 function P=fd(theta,l)
 
 P(1).p= [0 0 0]';
